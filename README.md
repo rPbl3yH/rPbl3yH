@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nikolay Terentiev 👋</h1>
+<h1 align="center">Hi, I'm Nikolay 👋</h1>
 
 <p align="center">
 Unity Developer with 5+ years of experience in Android/iOS, VR/PC apps, WebGL games published on Google Play, Steam and Yandex.Games.
